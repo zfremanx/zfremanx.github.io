@@ -1,42 +1,26 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="zfremanx.github.io/1" resolutions="1x" timestamp="1559131974054">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="zfremanx.github.io/1" resolutions="1x" timestamp="1559133254418">
   <folder name="css">
     <file name="site_global.css" crc="4031061796"/>
-    <file name="master_______-a.css" crc="324626281" ref="праздники:контакты:index:технические-работы"/>
-    <file name="nomq_preview_master_______-a.css" crc="3824530138" ref="праздники:контакты:index:технические-работы"/>
-    <file name="_________.css" crc="292567544" ref="праздники"/>
-    <file name="nomq__________.css" crc="172202870" ref="праздники"/>
-    <file name="________.css" crc="3874161966" ref="контакты"/>
-    <file name="nomq_________.css" crc="3807645398" ref="контакты"/>
+    <file name="master_______-a.css" crc="324626281" ref="index"/>
+    <file name="nomq_preview_master_______-a.css" crc="3824530138" ref="index"/>
     <file name="index.css" crc="117160141" ref="index"/>
     <file name="nomq_index.css" crc="4267657226" ref="index"/>
-    <file name="___________-______.css" crc="3962180982" ref="технические-работы"/>
-    <file name="nomq____________-______.css" crc="4245218279" ref="технические-работы"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>праздники:phone>технические-работы:phone>тест:tablet>index:tablet>праздники:tablet>технические-работы:tablet>тест:index:праздники:технические-работы:контакты"/>
-    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>праздники:phone>технические-работы:phone>тест:tablet>index:tablet>праздники:tablet>технические-работы:tablet>тест:index:праздники:технические-работы:контакты"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>праздники:phone>технические-работы:phone>тест:tablet>index:tablet>праздники:tablet>технические-работы:tablet>тест:index:праздники:технические-работы:контакты"/>
-    <file name="museconfig.js" crc="380897831" ref="phone>index:phone>праздники:phone>технические-работы:phone>тест:tablet>index:tablet>праздники:tablet>технические-работы:tablet>тест:index:праздники:технические-работы:контакты"/>
-    <file name="require.js" crc="4157109226" ref="phone>index:phone>праздники:phone>технические-работы:phone>тест:tablet>index:tablet>праздники:tablet>технические-работы:tablet>тест:index:праздники:технические-работы:контакты"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="tablet>праздники:праздники"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:праздники:технические-работы:контакты"/>
-    <file name="webpro.js" crc="242022427" ref="праздники"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="праздники"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="праздники"/>
-    <file name="touchswipe.js" crc="4066113679" ref="праздники"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:tablet>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="380897831" ref="phone>index:tablet>index:index"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
   </folder>
   <folder name="images">
     <file name="шаблон-a-favicon.ico" crc="233578287" ref="phone>index"/>
-    <file name="clouds1006247-tel.jpg" crc="3946806941" seo="true" ref="phone>index:phone>праздники:phone>технические-работы:phone>тест">
+    <file name="clouds1006247-tel.jpg" crc="3946806941" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="тест" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="технические-работы" alt=""/>
     </file>
-    <file name="front-tel.png" crc="45110175" seo="true" ref="phone>index:phone>технические-работы:phone>тест">
+    <file name="front-tel.png" crc="45110175" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="технические-работы" alt=""/>
-      <caption webpage="тест" alt=""/>
     </file>
     <file name="на-празднике рф.png" crc="98419079" seo="true" ref="phone>index:tablet>index">
       <caption webpage="index" alt=""/>
@@ -44,71 +28,23 @@
     </file>
     <file name="u8851-4.png" crc="3968937251" ref="phone>index"/>
     <file name="u8852-4.png" crc="482506929" ref="phone>index"/>
-    <file name="rb-ntd3o1d0-crop-u8871.jpg" crc="4230866504" seo="true" ref="phone>index">
+    <file name="rb-ntd3o1d0-crop-u8871.jpg" crc="4077856718" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="back-tel.png" crc="4101285250" seo="true" ref="phone>праздники">
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="добро пожаловать.png" crc="3986257242" seo="true" ref="phone>праздники:tablet>праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="clouds1006247-pl.jpg" crc="4207018650" seo="true" ref="tablet>index:tablet>праздники:tablet>технические-работы:tablet>тест">
-      <caption webpage="index" alt=""/>
-      <caption webpage="тест" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="технические-работы" alt=""/>
-    </file>
-    <file name="front-pl.png" crc="3846046724" seo="true" ref="tablet>index:tablet>технические-работы:tablet>тест">
-      <caption webpage="index" alt=""/>
-      <caption webpage="технические-работы" alt=""/>
-      <caption webpage="тест" alt=""/>
-    </file>
-    <file name="layer 26.png" crc="4264382055" seo="true" ref="tablet>index">
+    <file name="clouds1006247-pl.jpg" crc="4207018650" seo="true" ref="tablet>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="rb-ntd3o1d0-crop-u4685.jpg" crc="470214138" seo="true" ref="tablet>index">
+    <file name="front-pl.png" crc="3846046724" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="layer 26.png" crc="289161674" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rb-ntd3o1d0-crop-u4685.jpg" crc="4294152644" seo="true" ref="tablet>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u8837-4.png" crc="4086655353" ref="tablet>index"/>
     <file name="u8833-4.png" crc="4222151190" ref="tablet>index"/>
-    <file name="back-pl.png" crc="497723478" seo="true" ref="tablet>праздники">
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="rb-ntd3o1d084x84.jpg" crc="77892596" seo="true" ref="tablet>праздники">
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_1-u4806-fr.png" crc="3777067867" ref="tablet>праздники"/>
-    <file name="нпрф_1-u4806-r-fr.png" crc="3950428469" ref="tablet>праздники"/>
-    <file name="нпрф_1-u4806-m-fr.png" crc="3917894572" ref="tablet>праздники"/>
-    <file name="нпрф_2-u4808-fr.png" crc="3824056498" ref="tablet>праздники"/>
-    <file name="нпрф_2-u4808-r-fr.png" crc="381294550" ref="tablet>праздники"/>
-    <file name="нпрф_2-u4808-m-fr.png" crc="3782346584" ref="tablet>праздники"/>
-    <file name="нпрф_3-u4813-fr.png" crc="4275080439" ref="tablet>праздники"/>
-    <file name="нпрф_3-u4813-r-fr.png" crc="4142851221" ref="tablet>праздники"/>
-    <file name="нпрф_3-u4813-m-fr.png" crc="66656449" ref="tablet>праздники"/>
-    <file name="нпрф_4-u4809-fr.png" crc="293324765" ref="tablet>праздники"/>
-    <file name="нпрф_4-u4809-r-fr.png" crc="4027254810" ref="tablet>праздники"/>
-    <file name="нпрф_4-u4809-m-fr.png" crc="4205486126" ref="tablet>праздники"/>
-    <file name="нпрф_5-u4807-fr.png" crc="3941672482" ref="tablet>праздники"/>
-    <file name="нпрф_5-u4807-r-fr.png" crc="144005643" ref="tablet>праздники"/>
-    <file name="нпрф_5-u4807-m-fr.png" crc="273427831" ref="tablet>праздники"/>
-    <file name="нпрф_6-u4810-fr.png" crc="390195637" ref="tablet>праздники"/>
-    <file name="нпрф_6-u4810-r-fr.png" crc="4147758166" ref="tablet>праздники"/>
-    <file name="нпрф_6-u4810-m-fr.png" crc="4232675756" ref="tablet>праздники"/>
-    <file name="нпрф_7-u4811-fr.png" crc="3953395865" ref="tablet>праздники"/>
-    <file name="нпрф_7-u4811-r-fr.png" crc="321014453" ref="tablet>праздники"/>
-    <file name="нпрф_7-u4811-m-fr.png" crc="4056218375" ref="tablet>праздники"/>
-    <file name="нпрф_8-u4812-fr.png" crc="4060606332" ref="tablet>праздники"/>
-    <file name="нпрф_8-u4812-r-fr.png" crc="84382927" ref="tablet>праздники"/>
-    <file name="нпрф_8-u4812-m-fr.png" crc="3938953720" ref="tablet>праздники"/>
-    <file name="нпрф_9-u4815-fr.png" crc="501282282" ref="tablet>праздники"/>
-    <file name="нпрф_9-u4815-r-fr.png" crc="3910012153" ref="tablet>праздники"/>
-    <file name="нпрф_9-u4815-m-fr.png" crc="351478613" ref="tablet>праздники"/>
-    <file name="нпрф_11-u4814-fr.png" crc="4080228414" ref="tablet>праздники"/>
-    <file name="нпрф_11-u4814-r-fr.png" crc="3880100924" ref="tablet>праздники"/>
-    <file name="нпрф_11-u4814-m-fr.png" crc="3834381705" ref="tablet>праздники"/>
     <file name="главная1.jpg" crc="3890667489" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -152,7 +88,7 @@
     <file name="front765x482.png" crc="425469410" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="черепашка-crop-u110605.jpg" crc="363193888" seo="true" ref="index">
+    <file name="черепашка-crop-u110605.jpg" crc="4160232093" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="front612x385.png" crc="4208235526" seo="true" ref="index">
@@ -167,472 +103,25 @@
     <file name="черепашка-crop-u110607.jpg" crc="210651559" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:праздники:технические-работы:контакты"/>
-    <file name="праздник2_1.jpg" crc="3840600412" seo="true" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="backy2.png" crc="4208806686" seo="true" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_1-button.png" crc="179142804" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_1-hover.png" crc="204732949" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_1-active.png" crc="207957284" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_2-button.png" crc="68542018" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_2-hover.png" crc="3909850809" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_2-active.png" crc="370318202" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_3-button.png" crc="4018727306" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_3-hover.png" crc="387737192" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_3-active.png" crc="4026737637" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_4-button.png" crc="4221347811" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_4-hover.png" crc="3800578694" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_4-active.png" crc="4035290232" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_5-button.png" crc="199353269" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_5-hover.png" crc="4056784194" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_5-active.png" crc="142021112" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_6-button.png" crc="3921889972" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_6-hover.png" crc="3815664912" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_6-active.png" crc="157752885" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_7-button.png" crc="521127114" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_7-hover.png" crc="167307985" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_7-active.png" crc="503709488" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_8-button.png" crc="413703112" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_8-hover.png" crc="307460929" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_8-active.png" crc="3983944978" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_9-button.png" crc="4100353933" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_9-hover.png" crc="435047559" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_9-active.png" crc="160307729" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_11-button.png" crc="283153158" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_11-hover.png" crc="4085821672" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_11-active.png" crc="327612857" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="u8058-8.png" crc="4122177644" ref="праздники"/>
-    <file name="u8053-12.png" crc="286080184" ref="праздники"/>
-    <file name="u8044-8.png" crc="3897586198" ref="праздники"/>
-    <file name="u8037-10.png" crc="391665929" ref="праздники"/>
-    <file name="u8055-11.png" crc="4060017339" ref="праздники"/>
-    <file name="u8035-8.png" crc="369148843" ref="праздники"/>
-    <file name="u8040-12.png" crc="199173870" ref="праздники"/>
-    <file name="u8046-8.png" crc="4043833082" ref="праздники"/>
-    <file name="u8031-12.png" crc="241775763" ref="праздники"/>
-    <file name="u8062-6.png" crc="4034918492" ref="праздники"/>
-    <file name="u8050-12.png" crc="3780796195" ref="праздники"/>
-    <file name="mpczro9p2sg.jpg" crc="3919415969" seo="true" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="u8058-82.png" crc="460529957" ref="праздники"/>
-    <file name="u8053-122.png" crc="254190169" ref="праздники"/>
-    <file name="u8044-82.png" crc="470406921" ref="праздники"/>
-    <file name="u8037-102.png" crc="37233044" ref="праздники"/>
-    <file name="u8055-112.png" crc="4210274949" ref="праздники"/>
-    <file name="u8035-82.png" crc="4166127138" ref="праздники"/>
-    <file name="u8040-122.png" crc="53397284" ref="праздники"/>
-    <file name="u8046-82.png" crc="4217294074" ref="праздники"/>
-    <file name="u8031-122.png" crc="187275672" ref="праздники"/>
-    <file name="u8062-62.png" crc="8574602" ref="праздники"/>
-    <file name="u8050-122.png" crc="3905753878" ref="праздники"/>
-    <file name="u8058-83.png" crc="3965274979" ref="праздники"/>
-    <file name="u8052-4.png" crc="3785976505" ref="праздники"/>
-    <file name="u8053-123.png" crc="341194945" ref="праздники"/>
-    <file name="u8043-4.png" crc="11349685" ref="праздники"/>
-    <file name="u8044-83.png" crc="444567441" ref="праздники"/>
-    <file name="u8038-4.png" crc="3905630590" ref="праздники"/>
-    <file name="u8037-103.png" crc="102293651" ref="праздники"/>
-    <file name="u8056-4.png" crc="4138240499" ref="праздники"/>
-    <file name="u8055-113.png" crc="437937197" ref="праздники"/>
-    <file name="u8034-4.png" crc="388966235" ref="праздники"/>
-    <file name="u8035-83.png" crc="498450064" ref="праздники"/>
-    <file name="u8041-4.png" crc="410300760" ref="праздники"/>
-    <file name="u8040-123.png" crc="3758525973" ref="праздники"/>
-    <file name="u8047-4.png" crc="4003523370" ref="праздники"/>
-    <file name="u8046-83.png" crc="3886762995" ref="праздники"/>
-    <file name="u8032-4.png" crc="4080717833" ref="праздники"/>
-    <file name="u8031-123.png" crc="4232412285" ref="праздники"/>
-    <file name="u8061-4.png" crc="437375444" ref="праздники"/>
-    <file name="u8062-63.png" crc="4134783656" ref="праздники"/>
-    <file name="u8049-4.png" crc="4118766208" ref="праздники"/>
-    <file name="u8050-123.png" crc="3823113091" ref="праздники"/>
-    <file name="праздник2_1-crop-u11134.jpg" crc="321459234" seo="true" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="backy2764x481.png" crc="3945489698" seo="true" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_1-u8066-fr.png" crc="536503639" ref="праздники"/>
-    <file name="нпрф_1-u8066-r-fr.png" crc="4160276472" ref="праздники"/>
-    <file name="нпрф_1-u8066-m-fr.png" crc="4170914939" ref="праздники"/>
-    <file name="нпрф_2-u8072-fr.png" crc="3832901401" ref="праздники"/>
-    <file name="нпрф_2-u8072-r-fr.png" crc="137560023" ref="праздники"/>
-    <file name="нпрф_2-u8072-m-fr.png" crc="347091366" ref="праздники"/>
-    <file name="нпрф_3-u8073-fr.png" crc="227337167" ref="праздники"/>
-    <file name="нпрф_3-u8073-r-fr.png" crc="319923456" ref="праздники"/>
-    <file name="нпрф_3-u8073-m-fr.png" crc="268434031" ref="праздники"/>
-    <file name="нпрф_4-u8067-fr.png" crc="331335537" ref="праздники"/>
-    <file name="нпрф_4-u8067-r-fr.png" crc="143553791" ref="праздники"/>
-    <file name="нпрф_4-u8067-m-fr.png" crc="4279343724" ref="праздники"/>
-    <file name="нпрф_5-u8074-fr.png" crc="4274602063" ref="праздники"/>
-    <file name="нпрф_5-u8074-r-fr.png" crc="226534149" ref="праздники"/>
-    <file name="нпрф_5-u8074-m-fr.png" crc="3923209327" ref="праздники"/>
-    <file name="нпрф_6-u8069-fr.png" crc="303546277" ref="праздники"/>
-    <file name="нпрф_6-u8069-r-fr.png" crc="100721842" ref="праздники"/>
-    <file name="нпрф_6-u8069-m-fr.png" crc="4208485275" ref="праздники"/>
-    <file name="нпрф_7-u8068-fr.png" crc="71286939" ref="праздники"/>
-    <file name="нпрф_7-u8068-r-fr.png" crc="4102402502" ref="праздники"/>
-    <file name="нпрф_7-u8068-m-fr.png" crc="4206411175" ref="праздники"/>
-    <file name="нпрф_8-u8064-fr.png" crc="308662165" ref="праздники"/>
-    <file name="нпрф_8-u8064-r-fr.png" crc="4064980781" ref="праздники"/>
-    <file name="нпрф_8-u8064-m-fr.png" crc="4003162842" ref="праздники"/>
-    <file name="нпрф_9-u8065-fr.png" crc="4020635910" ref="праздники"/>
-    <file name="нпрф_9-u8065-r-fr.png" crc="3800423943" ref="праздники"/>
-    <file name="нпрф_9-u8065-m-fr.png" crc="4144780719" ref="праздники"/>
-    <file name="нпрф_11-u8071-fr.png" crc="426797488" ref="праздники"/>
-    <file name="нпрф_11-u8071-r-fr.png" crc="41955779" ref="праздники"/>
-    <file name="нпрф_11-u8071-m-fr.png" crc="284885002" ref="праздники"/>
-    <file name="u8058-84.png" crc="84855875" ref="праздники"/>
-    <file name="u8053-124.png" crc="348125919" ref="праздники"/>
-    <file name="u8044-84.png" crc="403178504" ref="праздники"/>
-    <file name="u8037-104.png" crc="153629170" ref="праздники"/>
-    <file name="u8055-114.png" crc="149520661" ref="праздники"/>
-    <file name="u8035-84.png" crc="432210052" ref="праздники"/>
-    <file name="u8040-124.png" crc="209613499" ref="праздники"/>
-    <file name="u8046-84.png" crc="3856940826" ref="праздники"/>
-    <file name="u8031-124.png" crc="4183855398" ref="праздники"/>
-    <file name="u8062-64.png" crc="230780519" ref="праздники"/>
-    <file name="u8050-124.png" crc="3906686429" ref="праздники"/>
-    <file name="праздник2_1-crop-u111342.jpg" crc="198697017" seo="true" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="backy2612x385.png" crc="6131307" seo="true" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_1-u8066-fr2.png" crc="4278981628" ref="праздники"/>
-    <file name="нпрф_1-u8066-r-fr2.png" crc="318728405" ref="праздники"/>
-    <file name="нпрф_1-u8066-m-fr2.png" crc="452830514" ref="праздники"/>
-    <file name="нпрф_2-u8072-fr2.png" crc="3982207718" ref="праздники"/>
-    <file name="нпрф_2-u8072-r-fr2.png" crc="318501448" ref="праздники"/>
-    <file name="нпрф_2-u8072-m-fr2.png" crc="421005654" ref="праздники"/>
-    <file name="нпрф_3-u8073-fr2.png" crc="4173352342" ref="праздники"/>
-    <file name="нпрф_3-u8073-r-fr2.png" crc="15222392" ref="праздники"/>
-    <file name="нпрф_3-u8073-m-fr2.png" crc="3993675740" ref="праздники"/>
-    <file name="нпрф_4-u8067-fr2.png" crc="3828375004" ref="праздники"/>
-    <file name="нпрф_4-u8067-r-fr2.png" crc="3883083525" ref="праздники"/>
-    <file name="нпрф_4-u8067-m-fr2.png" crc="260519800" ref="праздники"/>
-    <file name="нпрф_5-u8074-fr2.png" crc="3863623423" ref="праздники"/>
-    <file name="нпрф_5-u8074-r-fr2.png" crc="486883210" ref="праздники"/>
-    <file name="нпрф_5-u8074-m-fr2.png" crc="520419386" ref="праздники"/>
-    <file name="нпрф_6-u8069-fr2.png" crc="166574058" ref="праздники"/>
-    <file name="нпрф_6-u8069-r-fr2.png" crc="3901547341" ref="праздники"/>
-    <file name="нпрф_6-u8069-m-fr2.png" crc="4114326235" ref="праздники"/>
-    <file name="нпрф_7-u8068-fr2.png" crc="452621108" ref="праздники"/>
-    <file name="нпрф_7-u8068-r-fr2.png" crc="385724596" ref="праздники"/>
-    <file name="нпрф_7-u8068-m-fr2.png" crc="3858399741" ref="праздники"/>
-    <file name="нпрф_8-u8064-fr2.png" crc="4089583438" ref="праздники"/>
-    <file name="нпрф_8-u8064-r-fr2.png" crc="474132158" ref="праздники"/>
-    <file name="нпрф_8-u8064-m-fr2.png" crc="451295942" ref="праздники"/>
-    <file name="нпрф_9-u8065-fr2.png" crc="3991467160" ref="праздники"/>
-    <file name="нпрф_9-u8065-r-fr2.png" crc="4287674978" ref="праздники"/>
-    <file name="нпрф_9-u8065-m-fr2.png" crc="441967266" ref="праздники"/>
-    <file name="нпрф_11-u8071-fr2.png" crc="3869619799" ref="праздники"/>
-    <file name="нпрф_11-u8071-r-fr2.png" crc="440975288" ref="праздники"/>
-    <file name="нпрф_11-u8071-m-fr2.png" crc="3883534337" ref="праздники"/>
-    <file name="u8058-85.png" crc="3946143976" ref="праздники"/>
-    <file name="u8053-125.png" crc="185891714" ref="праздники"/>
-    <file name="u8044-85.png" crc="73980474" ref="праздники"/>
-    <file name="u8037-105.png" crc="3826685650" ref="праздники"/>
-    <file name="u8055-115.png" crc="241606592" ref="праздники"/>
-    <file name="u8035-85.png" crc="212798290" ref="праздники"/>
-    <file name="u8040-125.png" crc="376390255" ref="праздники"/>
-    <file name="u8046-85.png" crc="348301749" ref="праздники"/>
-    <file name="u8031-125.png" crc="299228870" ref="праздники"/>
-    <file name="u8062-65.png" crc="4215080504" ref="праздники"/>
-    <file name="u8050-125.png" crc="3885728371" ref="праздники"/>
-    <file name="праздник2_1-crop-u111343.jpg" crc="4108081574" seo="true" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="backy2600x378.png" crc="3960570951" seo="true" ref="праздники">
-      <caption webpage="праздники" alt=""/>
-    </file>
-    <file name="нпрф_1-u8066-fr3.png" crc="3777067867" ref="праздники"/>
-    <file name="нпрф_1-u8066-r-fr3.png" crc="3950428469" ref="праздники"/>
-    <file name="нпрф_1-u8066-m-fr3.png" crc="3917894572" ref="праздники"/>
-    <file name="нпрф_2-u8072-fr3.png" crc="3824056498" ref="праздники"/>
-    <file name="нпрф_2-u8072-r-fr3.png" crc="381294550" ref="праздники"/>
-    <file name="нпрф_2-u8072-m-fr3.png" crc="3782346584" ref="праздники"/>
-    <file name="нпрф_3-u8073-fr3.png" crc="4275080439" ref="праздники"/>
-    <file name="нпрф_3-u8073-r-fr3.png" crc="4142851221" ref="праздники"/>
-    <file name="нпрф_3-u8073-m-fr3.png" crc="66656449" ref="праздники"/>
-    <file name="нпрф_4-u8067-fr3.png" crc="293324765" ref="праздники"/>
-    <file name="нпрф_4-u8067-r-fr3.png" crc="4027254810" ref="праздники"/>
-    <file name="нпрф_4-u8067-m-fr3.png" crc="4205486126" ref="праздники"/>
-    <file name="нпрф_5-u8074-fr3.png" crc="3941672482" ref="праздники"/>
-    <file name="нпрф_5-u8074-r-fr3.png" crc="144005643" ref="праздники"/>
-    <file name="нпрф_5-u8074-m-fr3.png" crc="273427831" ref="праздники"/>
-    <file name="нпрф_6-u8069-fr3.png" crc="390195637" ref="праздники"/>
-    <file name="нпрф_6-u8069-r-fr3.png" crc="4147758166" ref="праздники"/>
-    <file name="нпрф_6-u8069-m-fr3.png" crc="4232675756" ref="праздники"/>
-    <file name="нпрф_7-u8068-fr3.png" crc="3953395865" ref="праздники"/>
-    <file name="нпрф_7-u8068-r-fr3.png" crc="321014453" ref="праздники"/>
-    <file name="нпрф_7-u8068-m-fr3.png" crc="4056218375" ref="праздники"/>
-    <file name="нпрф_8-u8064-fr3.png" crc="4060606332" ref="праздники"/>
-    <file name="нпрф_8-u8064-r-fr3.png" crc="84382927" ref="праздники"/>
-    <file name="нпрф_8-u8064-m-fr3.png" crc="3938953720" ref="праздники"/>
-    <file name="нпрф_9-u8065-fr3.png" crc="501282282" ref="праздники"/>
-    <file name="нпрф_9-u8065-r-fr3.png" crc="3910012153" ref="праздники"/>
-    <file name="нпрф_9-u8065-m-fr3.png" crc="351478613" ref="праздники"/>
-    <file name="нпрф_11-u8071-fr3.png" crc="4080228414" ref="праздники"/>
-    <file name="нпрф_11-u8071-r-fr3.png" crc="3880100924" ref="праздники"/>
-    <file name="нпрф_11-u8071-m-fr3.png" crc="3834381705" ref="праздники"/>
-    <file name="u8058-86.png" crc="3839370551" ref="праздники"/>
-    <file name="u8053-126.png" crc="3842119427" ref="праздники"/>
-    <file name="u8044-86.png" crc="3798033915" ref="праздники"/>
-    <file name="u8037-106.png" crc="3935917612" ref="праздники"/>
-    <file name="u8055-116.png" crc="3868948853" ref="праздники"/>
-    <file name="u8035-86.png" crc="4161797201" ref="праздники"/>
-    <file name="u8040-126.png" crc="4050327631" ref="праздники"/>
-    <file name="u8046-86.png" crc="4113152974" ref="праздники"/>
-    <file name="u8031-126.png" crc="1254003" ref="праздники"/>
-    <file name="u8062-66.png" crc="3926211126" ref="праздники"/>
-    <file name="u8050-126.png" crc="4034206327" ref="праздники"/>
-    <file name="na_prazdnike_fon1.jpg" crc="212899159" seo="true" ref="технические-работы:контакты">
-      <caption webpage="технические-работы" alt=""/>
-      <caption webpage="контакты" alt=""/>
-    </file>
-    <file name="fronttex.png" crc="3977907020" seo="true" ref="технические-работы">
-      <caption webpage="технические-работы" alt=""/>
-    </file>
-    <file name="tex_anim.gif" crc="3763304786" seo="true" ref="технические-работы">
-      <caption webpage="технические-работы" alt=""/>
-      <caption webpage="технические-работы" alt=""/>
-      <caption webpage="технические-работы" alt=""/>
-      <caption webpage="технические-работы" alt=""/>
-      <caption webpage="технические-работы" alt=""/>
-      <caption webpage="технические-работы" alt=""/>
-    </file>
-    <file name="na_prazdnike_fon1-crop-u1369.jpg" crc="4198334669" seo="true" ref="технические-работы">
-      <caption webpage="технические-работы" alt=""/>
-    </file>
-    <file name="fronttex1154x726.png" crc="4037337978" seo="true" ref="технические-работы">
-      <caption webpage="технические-работы" alt=""/>
-      <caption webpage="технические-работы" alt=""/>
-    </file>
-    <file name="na_prazdnike_fon1-crop-u13692.jpg" crc="4215987976" seo="true" ref="технические-работы">
-      <caption webpage="технические-работы" alt=""/>
-    </file>
-    <file name="na_prazdnike_fon1-crop-u13693.jpg" crc="3813329385" seo="true" ref="технические-работы">
-      <caption webpage="технические-работы" alt=""/>
-    </file>
-    <file name="fronttex956x602.png" crc="3831611017" seo="true" ref="технические-работы">
-      <caption webpage="технические-работы" alt=""/>
-    </file>
-    <file name="na_prazdnike_fon1-crop-u13694.jpg" crc="4257237794" seo="true" ref="технические-работы">
-      <caption webpage="технические-работы" alt=""/>
-    </file>
-    <file name="fronttex765x482.png" crc="3957147850" seo="true" ref="технические-работы">
-      <caption webpage="технические-работы" alt=""/>
-    </file>
-    <file name="na_prazdnike_fon1-crop-u13695.jpg" crc="281124856" seo="true" ref="технические-работы">
-      <caption webpage="технические-работы" alt=""/>
-    </file>
-    <file name="fronttex612x385.png" crc="4286715664" seo="true" ref="технические-работы">
-      <caption webpage="технические-работы" alt=""/>
-    </file>
-    <file name="напр111.png" crc="294530368" seo="true" ref="контакты">
-      <caption webpage="контакты" alt=""/>
-    </file>
-    <file name="na_prazdnike_fon1-crop-u9492.jpg" crc="3793191930" seo="true" ref="контакты">
-      <caption webpage="контакты" alt=""/>
-    </file>
-    <file name="напр1111154x724.png" crc="23807007" seo="true" ref="контакты">
-      <caption webpage="контакты" alt=""/>
-      <caption webpage="контакты" alt=""/>
-    </file>
-    <file name="na_prazdnike_fon11440x1080.jpg" crc="4173978814" seo="true" ref="контакты">
-      <caption webpage="контакты" alt=""/>
-    </file>
-    <file name="na_prazdnike_fon1-crop-u94922.jpg" crc="4129112605" seo="true" ref="контакты">
-      <caption webpage="контакты" alt=""/>
-    </file>
-    <file name="напр111956x600.png" crc="3976961010" seo="true" ref="контакты">
-      <caption webpage="контакты" alt=""/>
-    </file>
-    <file name="na_prazdnike_fon1-crop-u94923.jpg" crc="222682424" seo="true" ref="контакты">
-      <caption webpage="контакты" alt=""/>
-    </file>
-    <file name="напр111765x480.png" crc="3862592760" seo="true" ref="контакты">
-      <caption webpage="контакты" alt=""/>
-    </file>
-    <file name="na_prazdnike_fon1-crop-u94924.jpg" crc="4175211236" seo="true" ref="контакты">
-      <caption webpage="контакты" alt=""/>
-    </file>
-    <file name="напр111612x384.png" crc="3838637502" seo="true" ref="контакты">
-      <caption webpage="контакты" alt=""/>
-    </file>
-    <file name="na_prazdnike_fon1-crop-u94925.jpg" crc="4182645834" seo="true" ref="контакты">
-      <caption webpage="контакты" alt=""/>
-    </file>
-    <file name="напр111590x371.png" crc="4260119740" seo="true" ref="контакты">
-      <caption webpage="контакты" alt=""/>
-    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="master_______-a.css" crc="4213633491" ref="tablet>index:tablet>технические-работы:tablet>тест:tablet>праздники"/>
-      <file name="nomq_preview_master_______-a.css" crc="3824530138" ref="tablet>index:tablet>технические-работы:tablet>тест:tablet>праздники"/>
+      <file name="master_______-a.css" crc="4213633491" ref="tablet>index"/>
+      <file name="nomq_preview_master_______-a.css" crc="3824530138" ref="tablet>index"/>
       <file name="index.css" crc="3816198852" ref="tablet>index"/>
-      <file name="___________-______.css" crc="55755916" ref="tablet>технические-работы"/>
-      <file name="____.css" crc="4004508337" ref="tablet>тест"/>
-      <file name="nomq_____.css" crc="3824530138" ref="tablet>тест"/>
-      <file name="_________.css" crc="277139856" ref="tablet>праздники"/>
+      <file name="nomq_index.css" crc="3824530138" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="466709771" seo="true" mt="1559131864148" redirect="true"/>
-    <file name="праздники.html" crc="3856548132" seo="true" mt="1559131864054" redirect="true"/>
-    <file name="технические-работы.html" crc="219070077" seo="true" mt="1559131853022" redirect="true"/>
-    <file name="тест.html" crc="3810965899" seo="true" mt="1559131853022" redirect="true"/>
+    <file name="index.html" crc="3858953985" seo="true" mt="1559133095343" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_______-a.css" crc="3947362410" ref="phone>index:phone>технические-работы:phone>тест:phone>праздники"/>
-      <file name="nomq_preview_master_______-a.css" crc="3824530138" ref="phone>index:phone>технические-работы:phone>тест:phone>праздники"/>
+      <file name="master_______-a.css" crc="3947362410" ref="phone>index"/>
+      <file name="nomq_preview_master_______-a.css" crc="3824530138" ref="phone>index"/>
       <file name="index.css" crc="172687318" ref="phone>index"/>
-      <file name="___________-______.css" crc="14620575" ref="phone>технические-работы"/>
-      <file name="____.css" crc="4286505817" ref="phone>тест"/>
-      <file name="nomq_____.css" crc="3824530138" ref="phone>тест"/>
-      <file name="_________.css" crc="452122324" ref="phone>праздники"/>
+      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="80927284" seo="true" mt="1559131863955" redirect="true"/>
-    <file name="праздники.html" crc="4203262311" seo="true" mt="1559131853143" redirect="true"/>
-    <file name="технические-работы.html" crc="298858402" seo="true" mt="1559131853143" redirect="true"/>
-    <file name="тест.html" crc="63307294" seo="true" mt="1559131853143" redirect="true"/>
+    <file name="index.html" crc="191318584" seo="true" mt="1534818416852" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4238731326" seo="true" mt="1559131864749" redirect="true"/>
-  <file name="праздники.html" crc="143694237" seo="true" mt="1559131952609" redirect="true"/>
-  <file name="технические-работы.html" crc="79355853" seo="true" mt="1559131866204" redirect="true"/>
-  <file name="контакты.html" crc="3776157255" seo="true" mt="1559131850970" redirect="true"/>
+  <file name="index.html" crc="4002098338" seo="true" mt="1559133103638" redirect="true"/>
 </manifest>
